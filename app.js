@@ -35,8 +35,15 @@
 
 
 let arr= [1,2,3,4,5,6,7,8,]
-console.log(arr[0])
+// console.log(arr[0])
 
+arr.push(11)
+// console.log(arr.pop())
+
+console.log(arr)
+// console.log()
+arr.push(11)
+// 
 
 
 
